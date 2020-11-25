@@ -1,5 +1,5 @@
 # Bot's token
-token = ""
+token = "Nzc5NTI0MzU2OTQ1NzM5ODE2.X7hyoQ.IBprQYUSbZE7O8UdHRpebJ5aeZM"
 
 # Top.gg token
 topgg_token = ""
